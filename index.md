@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <a href="https://github.com/sissyphus/lights/issues/1">dbz</a>
-https://github.com/sissyphus/lights/issues/1
+<a href="https://github.com/sissyphus/lights/issues/2">Kingdom Hearts</a>

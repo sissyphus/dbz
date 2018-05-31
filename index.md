@@ -13,3 +13,11 @@
 <a href="https://github.com/sissyphus/lights/issues/11">Claymore</a> <br>
 <br>
 <a href="https://github.com/sissyphus/lights/issues/10">Assorted</a> <br>
+
+
+                         
+                         
+                         
+                                        Contact
+                                     Discord: Hei#8806
+                                    call/txt: 401-859-1420

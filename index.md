@@ -18,6 +18,6 @@
                          
                          
                          
-                                        Contact
-                                     Discord: Hei#8806
-                                    call/txt: 401-859-1420
+            Contact
+        Discord: Hei#8806
+       call/txt: 401-859-1420
